@@ -1,4 +1,4 @@
-# digitialdemo3
+# digitaldemo3
 
 Simple JK FF example using NetBeans/CoolBeans, Maven, TestNG
 
